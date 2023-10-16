@@ -121,8 +121,8 @@ const RoomPage = () => {
           <ReactPlayer
             playing
             muted
-            height="300px"
-            width="400px"
+            height="275px"
+            width="381.25px"
             url={myStream}
           />
         </>
@@ -133,8 +133,8 @@ const RoomPage = () => {
           <ReactPlayer
             playing
             muted
-            height="300px"
-            width="400px"
+            height="275"
+            width="381.25px"
             url={remoteStream}
           />
         </>

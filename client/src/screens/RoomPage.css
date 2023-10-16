@@ -3,10 +3,10 @@
 /* Style the container */
 div {
   text-align: center;
-  width: 80%;
+  width: 75%;
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 10px;
   background: linear-gradient(to bottom, #5DADE2, #ffffff); /* Lighter blue gradient */
   border-radius: 8px;
   font-family: Arial, sans-serif;
@@ -15,14 +15,14 @@ div {
 
 /* Style the headings */
 h1 {
-  font-size: 28px;
-  color: #5DADE2; /* Lighter blue color */
-  margin-bottom: 20px;
+  text-align: center;
+  font-size: 25px;
+  color: #3782b4; /* Lighter blue color */
 }
 
 h4 {
-  font-size: 18px;
-  color: #3498db;
+  font-size: 20px;
+  color: #3782b4;
 }
 
 /* Style the buttons */
@@ -30,8 +30,8 @@ button {
   background: linear-gradient(to bottom, #5DADE2, #3498db); /* Lighter blue gradient */
   color: #fff;
   border: none;
-  padding: 12px 24px;
-  border-radius: 20px;
+  padding: 16px 32px;
+  border-radius: 23px;
   margin: 20px;
   cursor: pointer;
   transition: background 0.2s;
